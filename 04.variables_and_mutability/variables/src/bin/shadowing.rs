@@ -3,4 +3,8 @@ fn main() {
     println!("x: {}", x);
     let x = x + 1;
     println!("x: {}", x);
+
+    // the following can be executed
+    let spaces = "     ";
+    let spaces = spaces.len();
 }
