@@ -8,7 +8,7 @@ fn first_word(s: &String) -> &str { // &str means string slice
     let bytes = s.as_bytes();
     for (i, &item) in bytes.iter().enumerate() {
         if item == b' ' {
-            return &s[..1];
+            return &s[..i];
         }
     }
 
