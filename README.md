@@ -17,3 +17,7 @@ https://qiita.com/Kashiwara/items/9cec0d4940a8c92e85a5
 と
 
 println!("{:?}", struct);
+
+# dark side...
+
+https://doc.rust-jp.rs/rust-nomicon-ja/index.html
