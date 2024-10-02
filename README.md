@@ -2,6 +2,8 @@
 
 週末レイトレーシングを C++ でやるのが癪なので、なんとなく Rust
 
+https://doc.rust-jp.rs/book-ja/title-page.html
+
 # cargo run --bin <file>
 
 https://rs.nkmk.me/rust-cargo-src-bin/
